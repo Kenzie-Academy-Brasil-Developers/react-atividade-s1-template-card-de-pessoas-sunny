@@ -1,0 +1,22 @@
+.develop-card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 40%;
+    max-width: 40%;
+    height: 230px;
+    margin: 0 2rem;
+    background-color: white;
+    color: #0000ff;
+    border-radius: 1rem;
+}
+
+.develop-card>h1{
+    font-weight: 700;
+}
+
+.develop-card>p{
+    font-size: 1.5rem;
+    font-weight: 600;    
+}
+
